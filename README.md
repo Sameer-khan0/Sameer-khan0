@@ -6,9 +6,9 @@
 Greetings! I'm Sameer Khan, a dedicated software developer with a passion for creating beautiful and functional web solutions. By day, I delve into the intricacies of code; by night, I transform digital ideas into reality, embracing the role of a digital alchemist. ‍♂️
 
 ### 🌟 Current Obsessions
-- **AI and Machine Learning:** Exploring their applications in the realm of web development.
-- **Next.js and JAMstack:** Creating blazing-fast web experiences.
-- **Figma and Sketch:** Crafting stunning UIs and prototypes.
+- **Frontend Developer** Exploring their applications in the realm of web development.
+- **Next.js and React.js** Creating blazing-fast web experiences.
+- **Figma** Crafting stunning UIs and prototypes.
 
 ### 🤝 Open to Collaboration
 I'm actively seeking collaborations on:
