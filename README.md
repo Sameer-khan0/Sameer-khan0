@@ -16,9 +16,6 @@ I'm actively seeking collaborations on:
 - Creative side projects addressing real-world problems.
 - Anything that involves building amazing things with talented people!
 
-### ⚡ Fun Fact
-I'm not just about code—I can solve a Rubik's cube in under 30 seconds!
-
 ### 💼 Skills and Interests
 - **Full-stack Development:** Proficient in JavaScript, Python, and Node.js.
 - **UI/UX Design:** Mastery in Figma and Sketch.
