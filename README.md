@@ -17,7 +17,7 @@ I'm actively seeking collaborations on:
 - Anything that involves building amazing things with talented people!
 
 ### 💼 Skills and Interests
-- **Full-stack Development:** Proficient in JavaScript, Python, and Node.js.
+- **Full-stack Development:** Proficient in JavaScript, and Node.js.
 - **UI/UX Design:** Mastery in Figma and Sketch.
 - **Website Accessibility and Performance Optimization:** Ensuring seamless user experiences.
 - **Continuous Learning:** Always embracing new technologies and frameworks.
