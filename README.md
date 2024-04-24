@@ -12,7 +12,7 @@ Greetings! I'm Sameer Khan, a dedicated software developer with a passion for cr
 
 ### 🤝 Open to Collaboration
 I'm actively seeking collaborations on:
-- Open-source projects pushing the boundaries of web development.
+- Open-source projects pushing the boundaries of web development. 
 - Creative side projects addressing real-world problems.
 - Anything that involves building amazing things with talented people!
 
