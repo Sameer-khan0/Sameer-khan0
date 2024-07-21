@@ -10,7 +10,7 @@ Greetings! I'm Sameer Khan, a dedicated software developer with a passion for cr
 - **Next.js and React.js:** Creating blazing-fast web experiences.
 - **React Native:** Crafting cross-platform mobile applications.
 - **Figma:** Crafting stunning UIs and prototypes.
-
+- 
 ### 🤝 Open to Collaboration
 I'm actively seeking collaborations on:
 - Open-source projects pushing the boundaries of web and mobile development.
