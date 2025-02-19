@@ -41,5 +41,3 @@ I’m open to collaborating on projects involving:
 ---
 
 > **Check out my repositories for more projects and ideas!**
-
-
